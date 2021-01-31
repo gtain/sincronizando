@@ -7,9 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-        echo "Trabajando con ramas"
-    ?>
+    
 </body>
 </html>
 
